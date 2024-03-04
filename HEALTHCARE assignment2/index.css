@@ -1,0 +1,293 @@
+.healthcare-logo-design-medical-icon {
+  position: absolute;
+  top: 22px;
+  left: 0;
+  width: 241px;
+  height: 189px;
+  object-fit: cover;
+}
+.regitraction-child {
+  position: absolute;
+  top: 43px;
+  left: 566px;
+  border-radius: 197px;
+  background-color: #fffdfd;
+  width: 287px;
+  height: 74px;
+}
+.register {
+  position: absolute;
+  top: 50.4px;
+  left: 619px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 233.6px;
+  height: 69px;
+  text-shadow: 1px 0 0 rgba(0, 0, 0, 0.91), 0 1px 0 rgba(0, 0, 0, 0.91),
+    -1px 0 0 rgba(0, 0, 0, 0.91), 0-1px 0 rgba(0, 0, 0, 0.91);
+  transform: rotate(-0.6deg);
+  transform-origin: 0 0;
+}
+.regitraction-item {
+  position: absolute;
+  top: 520.5px;
+  left: 505px;
+  border-radius: var(--br-5xs);
+  width: 454px;
+  height: 91.5px;
+}
+.rectangle-icon,
+.regitraction-child1,
+.regitraction-inner {
+  position: absolute;
+  top: 228px;
+  left: 512px;
+  border-radius: var(--br-5xs);
+  width: 411px;
+  height: 52px;
+}
+.rectangle-icon,
+.regitraction-child1 {
+  top: 453px;
+}
+.regitraction-child1 {
+  top: 343px;
+}
+.full-name,
+.password {
+  position: absolute;
+  top: 193px;
+  left: 512px;
+  font-weight: 500;
+  display: inline-block;
+  width: 122px;
+  height: 35px;
+}
+.password {
+  top: 0;
+  left: 0;
+  width: 112px;
+  height: 34px;
+}
+.password-wrapper,
+.phone-number {
+  position: absolute;
+  top: 528px;
+  left: 512px;
+  width: 112px;
+  height: 34px;
+}
+.phone-number {
+  top: 311px;
+  font-weight: 500;
+  display: inline-block;
+  width: 170px;
+  height: 43px;
+}
+.regitraction-child2,
+.regitraction-child3 {
+  position: absolute;
+  top: 675px;
+  left: 512px;
+  border-radius: var(--br-5xs);
+  width: 411px;
+  height: 52px;
+}
+.regitraction-child3 {
+  top: 563px;
+}
+.confirm-password,
+.email,
+.gender {
+  position: absolute;
+  top: 420px;
+  left: 512px;
+  font-weight: 500;
+  display: inline-block;
+  width: 103px;
+  height: 28px;
+}
+.confirm-password,
+.gender {
+  top: 639px;
+  width: 211px;
+  height: 36px;
+}
+.gender {
+  top: 754px;
+  text-transform: capitalize;
+  text-align: center;
+  width: 82px;
+  height: 24px;
+}
+.confirm-your-password,
+.enter-email,
+.enter-full-name,
+.enter-password,
+.enter-phone-number {
+  position: absolute;
+  top: 240px;
+  left: 519px;
+  font-weight: 500;
+  color: var(--color-darkgray);
+  display: inline-block;
+  width: 198px;
+  height: 28px;
+}
+.confirm-your-password,
+.enter-email,
+.enter-password,
+.enter-phone-number {
+  top: 354px;
+  width: 246px;
+  height: 31px;
+}
+.confirm-your-password,
+.enter-email,
+.enter-password {
+  top: 465px;
+  width: 151px;
+  height: 23px;
+}
+.confirm-your-password,
+.enter-password {
+  top: 575px;
+  width: 174px;
+  height: 28px;
+}
+.confirm-your-password {
+  top: 688px;
+  width: 291px;
+  height: 31px;
+}
+.ellipse-div {
+  position: absolute;
+  top: 792px;
+  left: 514px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 25px;
+  height: 25px;
+}
+.male {
+  position: absolute;
+  top: 791px;
+  left: 550px;
+  font-weight: 500;
+  display: inline-block;
+  width: 59px;
+  height: 28px;
+}
+.regitraction-child4 {
+  position: absolute;
+  top: 792px;
+  left: 641px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 25px;
+  height: 25px;
+}
+.female {
+  position: absolute;
+  top: 791px;
+  left: 677px;
+  font-weight: 500;
+  display: inline-block;
+  width: 89px;
+  height: 24px;
+}
+.regitraction-child5 {
+  position: absolute;
+  top: 792px;
+  left: 785px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 25px;
+  height: 25px;
+}
+.other {
+  position: absolute;
+  top: 791px;
+  left: 827px;
+  font-weight: 500;
+  display: inline-block;
+  width: 67px;
+  height: 21px;
+}
+.regitraction-child6 {
+  position: absolute;
+  top: 881px;
+  left: 512px;
+  border-radius: var(--br-5xs);
+  width: 411px;
+  height: 52px;
+  cursor: pointer;
+}
+.register1 {
+  position: absolute;
+  top: 888px;
+  left: 635px;
+  font-size: var(--font-size-17xl);
+  text-transform: capitalize;
+  display: inline-block;
+  color: var(--color-black);
+  text-align: center;
+  width: 148px;
+  height: 38px;
+}
+.log-in {
+  color: #0ba5e7;
+}
+.already-have-an-container {
+  position: absolute;
+  top: 940px;
+  left: 515px;
+  text-transform: capitalize;
+  display: inline-block;
+  text-align: center;
+  width: 412px;
+  height: 36px;
+  cursor: pointer;
+}
+.urgent-care-1-1 {
+  position: absolute;
+  top: -210px;
+  left: 342px;
+  width: 852px;
+  height: 852px;
+}
+.terms {
+  color: var(--color-gold-100);
+}
+.i-agree-to-container {
+  position: absolute;
+  top: 844px;
+  left: 545px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 420px;
+  height: 24px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 846px;
+  left: 512px;
+  background-color: var(--color-gainsboro-100);
+  width: 19px;
+  height: 19px;
+}
+.regitraction {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-200);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,217 @@
+.healthcare-logo-design-medical-icon3 {
+  position: absolute;
+  top: 7px;
+  left: 12px;
+  width: 241px;
+  height: 189px;
+  object-fit: cover;
+}
+.span1 {
+  white-space: pre-wrap;
+}
+.diseases2 {
+  color: var(--color-yellow);
+}
+.diseases-services-feedback-container {
+  position: absolute;
+  top: 59px;
+  left: 291px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  display: inline-block;
+  width: 1033px;
+  height: 43px;
+  color: var(--color-white);
+}
+.diseases-child {
+  position: absolute;
+  top: 99.5px;
+  left: 525.5px;
+  border-top: 5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 129px;
+  height: 5px;
+}
+.search-icon1 {
+  position: absolute;
+  top: 46px;
+  left: 1289px;
+  width: 69px;
+  height: 69px;
+  object-fit: cover;
+}
+.diseases3,
+.find-best-doctor1 {
+  position: absolute;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+}
+.find-best-doctor1 {
+  top: 159px;
+  left: 502px;
+  font-family: var(--font-redressed);
+  color: var(--color-lime-100);
+  display: inline-block;
+  width: 514px;
+  height: 66px;
+}
+.diseases3 {
+  top: 246px;
+  left: 100px;
+  color: var(--color-white);
+}
+.diseases-inner,
+.diseases-item {
+  position: absolute;
+  top: 345px;
+  border-radius: var(--br-xl);
+  height: 134px;
+}
+.diseases-item {
+  left: 100px;
+  width: 159px;
+  object-fit: cover;
+}
+.diseases-inner {
+  left: 333px;
+  background-color: var(--color-white);
+  width: 991px;
+}
+.general-physician1 {
+  position: absolute;
+  top: 383px;
+  left: 333px;
+  text-transform: capitalize;
+  display: inline-block;
+  font-family: var(--font-ruda);
+  width: 496px;
+  height: 57px;
+}
+.diseases-child1 {
+  position: absolute;
+  top: 375px;
+  left: 946px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-lightskyblue-100);
+  width: 346px;
+  height: 74px;
+  cursor: pointer;
+}
+.find-doctor {
+  position: absolute;
+  top: 381px;
+  left: 1002px;
+  text-transform: capitalize;
+  font-family: var(--font-rambla);
+}
+.diseases-child2,
+.frame-child3 {
+  width: 159px;
+  border-radius: var(--br-xl);
+  height: 134px;
+  object-fit: cover;
+}
+.diseases-child2 {
+  position: absolute;
+  top: 545px;
+  left: 100px;
+}
+.frame-child3 {
+  position: relative;
+}
+.diseases-inner1 {
+  position: absolute;
+  top: 734px;
+  left: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+}
+.diseases-child3,
+.diseases-child4 {
+  position: absolute;
+  top: 545px;
+  left: 333px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 991px;
+  height: 134px;
+}
+.diseases-child4 {
+  top: 744px;
+}
+.diseases-child5,
+.diseases-child6 {
+  position: absolute;
+  top: 575px;
+  left: 946px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-lightskyblue-100);
+  width: 346px;
+  height: 74px;
+  cursor: pointer;
+}
+.diseases-child6 {
+  top: 774px;
+}
+.cardiologist1,
+.dentist1,
+.find-doctor1,
+.find-doctor2 {
+  position: absolute;
+  top: 582px;
+  left: 1002px;
+  text-transform: capitalize;
+  font-family: var(--font-rambla);
+}
+.cardiologist1,
+.dentist1,
+.find-doctor2 {
+  top: 781px;
+}
+.cardiologist1,
+.dentist1 {
+  top: 578px;
+  left: 351px;
+  display: inline-block;
+  font-family: var(--font-ruda);
+  width: 328px;
+  height: 67px;
+}
+.dentist1 {
+  top: 784px;
+  left: 333px;
+  width: 281px;
+  height: 57px;
+}
+.user-menu-male1 {
+  position: absolute;
+  top: 36px;
+  left: 259px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.home {
+  position: absolute;
+  top: 59px;
+  left: 392px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  color: var(--color-white);
+  cursor: pointer;
+}
+.diseases1 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-200);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

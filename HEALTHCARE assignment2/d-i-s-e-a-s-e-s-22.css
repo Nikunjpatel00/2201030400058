@@ -1,0 +1,291 @@
+.span3 {
+  white-space: pre-wrap;
+}
+.diseases5 {
+  color: var(--color-yellow);
+}
+.diseases-services-feedback-container2 {
+  position: absolute;
+  top: 62px;
+  left: 311px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  display: inline-block;
+  font-family: var(--font-roboto);
+  width: 1033px;
+  height: 43px;
+  color: var(--color-white);
+}
+.healthcare-logo-design-medical-icon5,
+.search-icon3,
+.user-menu-male4 {
+  position: absolute;
+  top: 5px;
+  left: 14px;
+  width: 241px;
+  height: 189px;
+  object-fit: cover;
+}
+.search-icon3,
+.user-menu-male4 {
+  top: 44px;
+  left: 1309px;
+  width: 69px;
+  height: 69px;
+}
+.user-menu-male4 {
+  top: 39px;
+  left: 291px;
+  width: 80px;
+  height: 80px;
+}
+.diseases-22-child {
+  position: absolute;
+  top: 102.5px;
+  left: 547.5px;
+  border-top: 5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 129px;
+  height: 5px;
+}
+.cardiologist2,
+.find-best-doctor3 {
+  position: absolute;
+  text-transform: capitalize;
+}
+.find-best-doctor3 {
+  top: 157px;
+  left: 463px;
+  font-family: var(--font-redressed);
+  color: var(--color-lime-100);
+  display: inline-block;
+  width: 616px;
+  height: 66px;
+}
+.cardiologist2 {
+  top: 256px;
+  left: 93px;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+}
+.diseases-22-child1,
+.diseases-22-inner,
+.diseases-22-item {
+  position: absolute;
+  top: 344px;
+  left: 93px;
+  border-radius: var(--br-xl);
+  width: 159px;
+  height: 134px;
+  object-fit: cover;
+}
+.diseases-22-child1,
+.diseases-22-inner {
+  top: 540px;
+}
+.diseases-22-child1 {
+  top: 736px;
+}
+.diseases-22-child2,
+.diseases-22-child3,
+.diseases-22-child4 {
+  position: absolute;
+  top: 344px;
+  left: 353px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 991px;
+  height: 134px;
+}
+.diseases-22-child3,
+.diseases-22-child4 {
+  top: 540px;
+}
+.diseases-22-child4 {
+  top: 736px;
+}
+.cardiologist3 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.drvinay-patel-cardiologist-container1 {
+  position: absolute;
+  top: 352px;
+  left: 371px;
+  text-transform: capitalize;
+  display: inline-block;
+  font-family: var(--font-ruda);
+  width: 353px;
+  height: 64px;
+}
+.drtrupti-dimri {
+  margin: 0;
+}
+.drrahul-roy-cardiologist-container,
+.drtrupti-dimri-cardiologist-container {
+  position: absolute;
+  top: 557px;
+  left: 417px;
+  text-transform: capitalize;
+  font-family: var(--font-ruda);
+}
+.drrahul-roy-cardiologist-container {
+  top: 753px;
+}
+.diseases-22-child5,
+.diseases-22-child6,
+.diseases-22-child7 {
+  position: absolute;
+  top: 374px;
+  left: 939px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-lightskyblue-100);
+  width: 346px;
+  height: 74px;
+}
+.diseases-22-child6,
+.diseases-22-child7 {
+  top: 572px;
+}
+.diseases-22-child7 {
+  top: 753px;
+}
+.star-filled {
+  position: absolute;
+  top: 420px;
+  left: 564px;
+  width: 41px;
+  height: 35px;
+}
+.book-appointment3,
+.book-appointment4,
+.book-appointment5 {
+  position: absolute;
+  top: 389px;
+  left: 969px;
+  font-size: var(--font-size-17xl);
+  text-transform: capitalize;
+}
+.book-appointment4,
+.book-appointment5 {
+  top: 587px;
+}
+.book-appointment5 {
+  top: 768px;
+}
+.star-half-empty3,
+.star-half-empty4,
+.star-half-empty5 {
+  position: absolute;
+  top: 827px;
+  left: 417px;
+  width: 41px;
+  height: 35px;
+  object-fit: cover;
+}
+.star-half-empty4,
+.star-half-empty5 {
+  top: 628px;
+}
+.star-half-empty5 {
+  top: 430px;
+}
+.reviews3,
+.reviews4,
+.reviews5 {
+  position: absolute;
+  top: 436px;
+  left: 457px;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  white-space: pre-wrap;
+}
+.reviews4,
+.reviews5 {
+  top: 634px;
+  left: 459px;
+}
+.reviews5 {
+  top: 833px;
+  left: 457px;
+}
+.diseases-22-child10,
+.diseases-22-child8,
+.diseases-22-child9 {
+  position: absolute;
+  top: 421.5px;
+  left: 416.5px;
+  border-top: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 258px;
+  height: 1px;
+}
+.diseases-22-child10,
+.diseases-22-child9 {
+  top: 627.5px;
+  width: 278px;
+}
+.diseases-22-child10 {
+  top: 826.5px;
+  width: 242px;
+}
+.filled-heart-icon2,
+.heart-icon1,
+.heart-icon2,
+.three-people-icon {
+  position: absolute;
+  top: 353px;
+  left: 1301px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.filled-heart-icon2,
+.heart-icon2,
+.three-people-icon {
+  top: 744px;
+  left: 1303px;
+}
+.filled-heart-icon2,
+.three-people-icon {
+  top: 545px;
+  left: 1301px;
+}
+.three-people-icon {
+  top: -701px;
+  left: 1908px;
+  width: 96px;
+  height: 96px;
+}
+.home2,
+.left-arrow-icon1 {
+  position: absolute;
+  cursor: pointer;
+}
+.left-arrow-icon1 {
+  top: 175px;
+  left: 14px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.home2 {
+  top: 60px;
+  left: 417px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+}
+.diseases-22 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-200);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-rambla);
+}

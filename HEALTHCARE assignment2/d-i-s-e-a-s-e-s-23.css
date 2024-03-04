@@ -1,0 +1,273 @@
+.span4 {
+  white-space: pre-wrap;
+}
+.diseases6 {
+  color: var(--color-yellow);
+}
+.diseases-services-feedback-container3 {
+  position: absolute;
+  top: 62px;
+  left: 311px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  display: inline-block;
+  font-family: var(--font-roboto);
+  width: 1033px;
+  height: 43px;
+  color: var(--color-white);
+}
+.healthcare-logo-design-medical-icon6,
+.search-icon4,
+.user-menu-male5 {
+  position: absolute;
+  top: 5px;
+  left: 14px;
+  width: 241px;
+  height: 189px;
+  object-fit: cover;
+}
+.search-icon4,
+.user-menu-male5 {
+  top: 44px;
+  left: 1309px;
+  width: 69px;
+  height: 69px;
+}
+.user-menu-male5 {
+  top: 39px;
+  left: 291px;
+  width: 80px;
+  height: 80px;
+}
+.diseases-23-child {
+  position: absolute;
+  top: 102.5px;
+  left: 547.5px;
+  border-top: 5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 129px;
+  height: 5px;
+}
+.dentist2,
+.find-best-doctor4 {
+  position: absolute;
+  text-transform: capitalize;
+}
+.find-best-doctor4 {
+  top: 157px;
+  left: 463px;
+  font-family: var(--font-redressed);
+  color: var(--color-lime-100);
+  display: inline-block;
+  width: 616px;
+  height: 66px;
+}
+.dentist2 {
+  top: 257px;
+  left: 93px;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+}
+.diseases-23-child1,
+.diseases-23-inner,
+.diseases-23-item {
+  position: absolute;
+  top: 344px;
+  left: 93px;
+  border-radius: var(--br-xl);
+  width: 159px;
+  height: 134px;
+  object-fit: cover;
+}
+.diseases-23-child1,
+.diseases-23-inner {
+  top: 540px;
+}
+.diseases-23-child1 {
+  top: 736px;
+}
+.diseases-23-child2,
+.diseases-23-child3,
+.diseases-23-child4 {
+  position: absolute;
+  top: 344px;
+  left: 353px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 991px;
+  height: 134px;
+}
+.diseases-23-child3,
+.diseases-23-child4 {
+  top: 540px;
+}
+.diseases-23-child4 {
+  top: 736px;
+}
+.dentist3 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.drritu-patel-dentist-container1 {
+  position: absolute;
+  top: 350px;
+  left: 359px;
+  text-transform: capitalize;
+  display: inline-block;
+  font-family: var(--font-ruda);
+  width: 353px;
+  height: 64px;
+}
+.drkartik-shah {
+  margin: 0;
+}
+.drkartik-shah-dentist-container,
+.drnidhi-chopra-dentist-container {
+  position: absolute;
+  top: 553px;
+  left: 417px;
+  text-transform: capitalize;
+  font-family: var(--font-ruda);
+}
+.drnidhi-chopra-dentist-container {
+  top: 751px;
+}
+.diseases-23-child5,
+.diseases-23-child6,
+.diseases-23-child7 {
+  position: absolute;
+  top: 374px;
+  left: 939px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-lightskyblue-100);
+  width: 346px;
+  height: 74px;
+}
+.diseases-23-child6,
+.diseases-23-child7 {
+  top: 572px;
+}
+.diseases-23-child7 {
+  top: 753px;
+}
+.book-appointment6,
+.book-appointment7,
+.book-appointment8 {
+  position: absolute;
+  top: 389px;
+  left: 969px;
+  font-size: var(--font-size-17xl);
+  text-transform: capitalize;
+}
+.book-appointment7,
+.book-appointment8 {
+  top: 587px;
+}
+.book-appointment8 {
+  top: 768px;
+}
+.star-half-empty6,
+.star-half-empty7,
+.star-half-empty8 {
+  position: absolute;
+  top: 628px;
+  left: 417px;
+  width: 41px;
+  height: 35px;
+  object-fit: cover;
+}
+.star-half-empty7,
+.star-half-empty8 {
+  top: 827px;
+}
+.star-half-empty8 {
+  top: 430px;
+}
+.reviews6,
+.reviews7,
+.reviews8 {
+  position: absolute;
+  top: 436px;
+  left: 459px;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  white-space: pre-wrap;
+}
+.reviews7,
+.reviews8 {
+  top: 634px;
+  left: 457px;
+}
+.reviews8 {
+  top: 832px;
+  left: 461px;
+}
+.diseases-23-child10,
+.diseases-23-child8,
+.diseases-23-child9 {
+  position: absolute;
+  top: 421.5px;
+  left: 416.5px;
+  border-top: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 248px;
+  height: 1px;
+}
+.diseases-23-child10,
+.diseases-23-child9 {
+  top: 627.5px;
+  width: 270px;
+}
+.diseases-23-child10 {
+  top: 826.5px;
+  width: 296px;
+}
+.filled-heart-icon3,
+.filled-heart-icon4,
+.heart-icon3 {
+  position: absolute;
+  top: 548px;
+  left: 1293px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.filled-heart-icon3,
+.filled-heart-icon4 {
+  top: 352px;
+}
+.filled-heart-icon4 {
+  top: 740px;
+}
+.home3,
+.left-arrow-icon2 {
+  position: absolute;
+  cursor: pointer;
+}
+.left-arrow-icon2 {
+  top: 175px;
+  left: 8px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.home3 {
+  top: 62px;
+  left: 417px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+}
+.diseases-23 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-200);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-rambla);
+}

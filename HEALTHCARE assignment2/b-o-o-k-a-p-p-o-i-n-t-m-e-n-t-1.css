@@ -1,0 +1,292 @@
+.span6 {
+  white-space: pre-wrap;
+}
+.diseases9 {
+  color: var(--color-yellow);
+}
+.diseases-services-feedback-container5 {
+  position: absolute;
+  top: 62px;
+  left: 311px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  display: inline-block;
+  width: 1033px;
+  height: 43px;
+}
+.healthcare-logo-design-medical-icon9,
+.search-icon7,
+.user-menu-male10 {
+  position: absolute;
+  top: 5px;
+  left: 14px;
+  width: 241px;
+  height: 189px;
+  object-fit: cover;
+}
+.search-icon7,
+.user-menu-male10 {
+  top: 44px;
+  left: 1309px;
+  width: 69px;
+  height: 69px;
+}
+.user-menu-male10 {
+  top: 39px;
+  left: 291px;
+  width: 80px;
+  height: 80px;
+}
+.book-appointment-1-child {
+  position: absolute;
+  top: 102.5px;
+  left: 547.5px;
+  border-top: 5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 129px;
+  height: 5px;
+}
+.book-appointment12,
+.find-best-doctor7 {
+  position: absolute;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+}
+.find-best-doctor7 {
+  top: 157px;
+  left: 463px;
+  font-family: var(--font-redressed);
+  color: var(--color-lime-100);
+  display: inline-block;
+  width: 616px;
+  height: 66px;
+}
+.book-appointment12 {
+  top: 264px;
+  left: 88px;
+}
+.book-appointment-1-inner,
+.book-appointment-1-item {
+  position: absolute;
+  top: 344px;
+  border-radius: var(--br-xl);
+  height: 134px;
+}
+.book-appointment-1-item {
+  left: 93px;
+  width: 159px;
+  object-fit: cover;
+}
+.book-appointment-1-inner {
+  left: 359px;
+  background-color: var(--color-white);
+  width: 418px;
+}
+.drpriya-maheta4 {
+  margin: 0;
+}
+.general-physician8 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.drpriya-maheta-general-container4 {
+  position: absolute;
+  top: 355px;
+  left: 391px;
+  text-transform: capitalize;
+  display: inline-block;
+  font-family: var(--font-ruda);
+  color: var(--color-black);
+  width: 353px;
+  height: 64px;
+  font-size: var(--font-size-21xl);
+}
+.user-menu-male11 {
+  position: absolute;
+  top: 38px;
+  left: -1381px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.review2 {
+  position: absolute;
+  top: 438px;
+  left: 472px;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  font-family: var(--font-rambla);
+  color: var(--color-black);
+  white-space: pre-wrap;
+}
+.star-half-empty13 {
+  position: absolute;
+  top: 432px;
+  left: 423px;
+  width: 41px;
+  height: 35px;
+  object-fit: cover;
+}
+.book-appointment-1-child1 {
+  position: absolute;
+  top: 431.5px;
+  left: 416.5px;
+  border-top: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 304px;
+  height: 1px;
+}
+.filled-heart-icon7 {
+  position: absolute;
+  top: 348px;
+  left: 736px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.book-appointment-1-child2 {
+  position: absolute;
+  top: 517px;
+  left: 135px;
+  border-radius: 50%;
+  background-color: var(--color-gold-200);
+  width: 75px;
+  height: 75px;
+}
+.people-icon2 {
+  position: absolute;
+  top: 524px;
+  left: 130px;
+  width: 86px;
+  height: 57px;
+  object-fit: cover;
+}
+.book-appointment-1-child3,
+.book-appointment-1-child4 {
+  position: absolute;
+  top: 517px;
+  left: 299px;
+  border-radius: 50%;
+  background-color: var(--color-gold-100);
+  width: 75px;
+  height: 75px;
+}
+.book-appointment-1-child4 {
+  left: 463px;
+}
+.combo-chart-icon2 {
+  position: absolute;
+  top: 524px;
+  left: 307px;
+  width: 60px;
+  height: 57px;
+  object-fit: cover;
+}
+.patients5 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.experience4,
+.patients4 {
+  position: absolute;
+  top: 600px;
+  text-transform: capitalize;
+}
+.patients4 {
+  left: 111px;
+  display: inline-block;
+  width: 128px;
+  height: 69px;
+}
+.experience4 {
+  left: 277px;
+}
+.star-half-empty14 {
+  position: absolute;
+  top: 524px;
+  left: 463px;
+  width: 76px;
+  height: 57px;
+  object-fit: cover;
+}
+.rating4,
+.reviews13 {
+  position: absolute;
+  top: 600px;
+  left: 466px;
+  text-transform: capitalize;
+}
+.reviews13 {
+  left: 628px;
+}
+.book-appointment-1-child5 {
+  position: absolute;
+  top: 517px;
+  left: 635px;
+  border-radius: 50%;
+  background-color: var(--color-gold-100);
+  width: 75px;
+  height: 75px;
+}
+.chat-bubble-icon2 {
+  position: absolute;
+  top: 529px;
+  left: 633px;
+  width: 80.2px;
+  height: 52.3px;
+  object-fit: contain;
+}
+.book-appointment-1-child6 {
+  position: absolute;
+  top: 777px;
+  left: 550px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-limegreen);
+  width: 339px;
+  height: 91px;
+}
+.booked {
+  position: absolute;
+  top: 793px;
+  left: 628px;
+  font-size: var(--font-size-29xl);
+  text-transform: capitalize;
+  font-family: var(--font-rambla);
+}
+.left-arrow-icon5 {
+  position: absolute;
+  top: 175px;
+  left: 14px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.icon-with-a-check-mark {
+  position: absolute;
+  top: 777px;
+  left: 397px;
+  width: 138px;
+  height: 91px;
+  object-fit: cover;
+}
+.home6 {
+  position: absolute;
+  top: 62px;
+  left: 417px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  cursor: pointer;
+}
+.book-appointment-1 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-200);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

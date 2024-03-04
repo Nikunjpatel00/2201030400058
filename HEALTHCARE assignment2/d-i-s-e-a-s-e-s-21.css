@@ -1,0 +1,293 @@
+.diseases-21-child {
+  position: absolute;
+  top: 344px;
+  left: 353px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 991px;
+  height: 134px;
+}
+.span2 {
+  white-space: pre-wrap;
+}
+.diseases4 {
+  color: var(--color-yellow);
+}
+.diseases-services-feedback-container1 {
+  position: absolute;
+  top: 62px;
+  left: 311px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  display: inline-block;
+  font-family: var(--font-roboto);
+  width: 1033px;
+  height: 43px;
+  color: var(--color-white);
+}
+.healthcare-logo-design-medical-icon4,
+.search-icon2,
+.user-menu-male2 {
+  position: absolute;
+  top: 5px;
+  left: 14px;
+  width: 241px;
+  height: 189px;
+  object-fit: cover;
+}
+.search-icon2,
+.user-menu-male2 {
+  top: 44px;
+  left: 1309px;
+  width: 69px;
+  height: 69px;
+}
+.user-menu-male2 {
+  top: 39px;
+  left: 291px;
+  width: 80px;
+  height: 80px;
+}
+.diseases-21-item {
+  position: absolute;
+  top: 102.5px;
+  left: 547.5px;
+  border-top: 5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 129px;
+  height: 5px;
+}
+.find-best-doctor2,
+.general-physician2 {
+  position: absolute;
+  text-transform: capitalize;
+}
+.find-best-doctor2 {
+  top: 157px;
+  left: 463px;
+  font-family: var(--font-redressed);
+  color: var(--color-lime-100);
+  display: inline-block;
+  width: 616px;
+  height: 66px;
+}
+.general-physician2 {
+  top: 264px;
+  left: 93px;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+}
+.diseases-21-child1,
+.diseases-21-child2,
+.diseases-21-inner {
+  position: absolute;
+  top: 344px;
+  left: 93px;
+  border-radius: var(--br-xl);
+  width: 159px;
+  height: 134px;
+  object-fit: cover;
+}
+.diseases-21-child1,
+.diseases-21-child2 {
+  top: 540px;
+}
+.diseases-21-child2 {
+  top: 736px;
+}
+.diseases-21-child3,
+.diseases-21-child4 {
+  position: absolute;
+  top: 540px;
+  left: 353px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 991px;
+  height: 134px;
+}
+.diseases-21-child4 {
+  top: 736px;
+}
+.general-physician3 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.drpriya-maheta-general-container1 {
+  position: absolute;
+  top: 355px;
+  left: 391px;
+  text-transform: capitalize;
+  display: inline-block;
+  font-family: var(--font-ruda);
+  width: 353px;
+  height: 64px;
+}
+.drnikunj-patel {
+  margin: 0;
+}
+.draayushi-verma-general-container,
+.drnikunj-patel-general-container {
+  position: absolute;
+  top: 557px;
+  left: 417px;
+  text-transform: capitalize;
+  font-family: var(--font-ruda);
+}
+.draayushi-verma-general-container {
+  top: 753px;
+}
+.diseases-21-child5,
+.diseases-21-child6,
+.diseases-21-child7 {
+  position: absolute;
+  left: 939px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-lightskyblue-100);
+  width: 346px;
+  height: 74px;
+}
+.diseases-21-child5 {
+  top: 374px;
+  cursor: pointer;
+}
+.diseases-21-child6,
+.diseases-21-child7 {
+  top: 572px;
+}
+.diseases-21-child7 {
+  top: 753px;
+}
+.book-appointment,
+.book-appointment1,
+.book-appointment2 {
+  position: absolute;
+  top: 389px;
+  left: 969px;
+  font-size: var(--font-size-17xl);
+  text-transform: capitalize;
+}
+.book-appointment1,
+.book-appointment2 {
+  top: 587px;
+}
+.book-appointment2 {
+  top: 768px;
+}
+.star-half-empty {
+  position: absolute;
+  top: 824px;
+  left: 417px;
+  width: 41px;
+  height: 35px;
+  object-fit: cover;
+}
+.star-half-empty1,
+.user-menu-male3 {
+  position: absolute;
+  top: 38px;
+  left: -1381px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.star-half-empty1 {
+  top: 430px;
+  left: 417px;
+  width: 41px;
+  height: 35px;
+}
+.reviews {
+  position: absolute;
+  top: 436px;
+  left: 459px;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  white-space: pre-wrap;
+}
+.star-half-empty2 {
+  position: absolute;
+  top: 628px;
+  left: 417px;
+  width: 41px;
+  height: 35px;
+  object-fit: cover;
+}
+.reviews1,
+.reviews2 {
+  position: absolute;
+  top: 634px;
+  left: 461px;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  white-space: pre-wrap;
+}
+.reviews2 {
+  top: 830px;
+}
+.diseases-21-child10,
+.diseases-21-child8,
+.diseases-21-child9 {
+  position: absolute;
+  top: 426.5px;
+  left: 416.5px;
+  border-top: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 304px;
+  height: 1px;
+}
+.diseases-21-child10,
+.diseases-21-child9 {
+  top: 627.5px;
+}
+.diseases-21-child10 {
+  top: 823.5px;
+}
+.filled-heart-icon,
+.filled-heart-icon1,
+.heart-icon {
+  position: absolute;
+  top: 743px;
+  left: 1300px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.filled-heart-icon,
+.filled-heart-icon1 {
+  top: 546px;
+}
+.filled-heart-icon1 {
+  top: 355px;
+}
+.home1,
+.left-arrow-icon {
+  position: absolute;
+  cursor: pointer;
+}
+.left-arrow-icon {
+  top: 175px;
+  left: 14px;
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+}
+.home1 {
+  top: 62px;
+  left: 417px;
+  font-size: var(--font-size-13xl);
+  text-transform: capitalize;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+}
+.diseases-21 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-200);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-rambla);
+}

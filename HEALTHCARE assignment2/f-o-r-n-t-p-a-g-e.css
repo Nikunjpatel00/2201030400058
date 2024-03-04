@@ -1,0 +1,341 @@
+.fornt-page-child {
+  position: absolute;
+  top: 861px;
+  left: 245px;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-white);
+  width: 225px;
+  height: 57px;
+}
+.healthcare-logo-design-medical-icon2 {
+  position: absolute;
+  top: 16px;
+  left: 19px;
+  width: 241px;
+  height: 189px;
+  object-fit: cover;
+}
+.services {
+  color: var(--color-white);
+  white-space: pre-wrap;
+}
+.home-services-feedback-container {
+  position: absolute;
+  top: 68px;
+  left: 260px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 1033px;
+  height: 43px;
+  color: var(--color-yellow);
+}
+.search-icon {
+  position: absolute;
+  top: 53px;
+  left: 1299px;
+  width: 69px;
+  height: 69px;
+  object-fit: cover;
+}
+.available-doctors,
+.recomended-doctor,
+.recomended-hospital {
+  position: absolute;
+  top: 247px;
+  left: 77px;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+  display: inline-block;
+  color: var(--color-white);
+  width: 336px;
+  height: 37px;
+}
+.recomended-doctor,
+.recomended-hospital {
+  top: 474px;
+  left: 73px;
+  width: 374px;
+  height: 43px;
+}
+.recomended-hospital {
+  top: 735px;
+  width: 401px;
+  height: 57px;
+}
+.fornt-page-item {
+  position: absolute;
+  bottom: 584px;
+  left: 77px;
+  border-radius: 50%;
+  width: 122px;
+  height: 122px;
+  object-fit: cover;
+}
+.fornt-page-inner {
+  top: 318px;
+  left: 246px;
+}
+.ellipse-icon,
+.fornt-page-child1,
+.fornt-page-child2,
+.fornt-page-inner {
+  position: absolute;
+  border-radius: 50%;
+  width: 122px;
+  height: 122px;
+  object-fit: cover;
+}
+.ellipse-icon {
+  bottom: 584px;
+  left: 417px;
+}
+.fornt-page-child1,
+.fornt-page-child2 {
+  top: 318px;
+  left: 588px;
+}
+.fornt-page-child2 {
+  left: 759px;
+}
+.find-best-doctor {
+  position: absolute;
+  top: 168px;
+  left: 519px;
+  font-size: var(--font-size-21xl);
+  text-transform: capitalize;
+  font-family: var(--font-redressed);
+  color: var(--color-lime-100);
+  display: inline-block;
+  width: 514px;
+  height: 66px;
+}
+.fornt-page-child3,
+.fornt-page-child4,
+.fornt-page-child5,
+.fornt-page-child6,
+.fornt-page-child7 {
+  position: absolute;
+  top: 318px;
+  left: 417px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  width: 122px;
+  height: 122px;
+}
+.fornt-page-child4,
+.fornt-page-child5,
+.fornt-page-child6,
+.fornt-page-child7 {
+  left: 588px;
+}
+.fornt-page-child5,
+.fornt-page-child6,
+.fornt-page-child7 {
+  left: 759px;
+}
+.fornt-page-child6,
+.fornt-page-child7 {
+  left: 160px;
+  background-color: var(--color-lime-200);
+  width: 16px;
+  height: 16px;
+}
+.fornt-page-child7 {
+  left: 329px;
+}
+.line-div {
+  position: absolute;
+  top: 107.5px;
+  left: 379.5px;
+  border-top: 5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 82px;
+  height: 5px;
+}
+.fornt-page-child8 {
+  position: absolute;
+  top: 528px;
+  left: 77px;
+  border-radius: var(--br-xl);
+  width: 183px;
+  height: 191px;
+  object-fit: cover;
+}
+.fornt-page-child9 {
+  position: absolute;
+  top: 593px;
+  left: 259px;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-snow);
+  width: 188px;
+  height: 53px;
+}
+.drvinay-patel {
+  margin: 0;
+}
+.cardiologist {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.drvinay-patel-cardiologist-container {
+  position: absolute;
+  top: 593px;
+  left: 265px;
+  text-transform: capitalize;
+  font-family: var(--font-ruda);
+  font-size: var(--font-size-8xl);
+}
+.fornt-page-child10 {
+  position: absolute;
+  top: 528px;
+  left: 478px;
+  border-radius: var(--br-xl);
+  width: 183px;
+  height: 191px;
+  object-fit: cover;
+}
+.fornt-page-child11 {
+  position: absolute;
+  top: 593px;
+  left: 661px;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-snow);
+  width: 188px;
+  height: 53px;
+}
+.drritu-patel-dentist-container {
+  position: absolute;
+  top: 594px;
+  left: 672px;
+  text-transform: capitalize;
+  font-family: var(--font-ruda);
+  font-size: var(--font-size-8xl);
+}
+.fornt-page-child12 {
+  position: absolute;
+  top: 589px;
+  left: 1072px;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-snow);
+  width: 242px;
+  height: 57px;
+}
+.drpriya-maheta-general-container {
+  position: absolute;
+  top: 590px;
+  left: 1089px;
+  text-transform: capitalize;
+  font-family: var(--font-ruda);
+  font-size: var(--font-size-8xl);
+}
+.fornt-page-child13,
+.fornt-page-child14 {
+  position: absolute;
+  top: 528px;
+  left: 889px;
+  border-radius: var(--br-xl);
+  width: 183px;
+  height: 191px;
+  object-fit: cover;
+}
+.fornt-page-child14 {
+  top: 789px;
+  left: 77px;
+  border-radius: var(--br-mini);
+  width: 172px;
+  height: 202px;
+}
+.apollo-hospital-ahmedabad-container {
+  position: absolute;
+  top: 858px;
+  left: 253px;
+  text-transform: capitalize;
+  font-family: var(--font-rosario);
+}
+.fornt-page-child15 {
+  position: absolute;
+  top: 789px;
+  left: 511px;
+  border-radius: var(--br-mini);
+  width: 172px;
+  height: 202px;
+  object-fit: cover;
+}
+.fornt-page-child16 {
+  position: absolute;
+  top: 861px;
+  left: 684px;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-white);
+  width: 263px;
+  height: 57px;
+}
+.columbia {
+  font-size: var(--font-size-13xl);
+}
+.span {
+  font-size: 34px;
+}
+.columbia-hospital-bangalore-container {
+  position: absolute;
+  top: 856px;
+  left: 684px;
+  text-transform: capitalize;
+  display: inline-block;
+  font-family: var(--font-rosario);
+  width: 261px;
+  height: 64px;
+}
+.fornt-page-child17 {
+  position: absolute;
+  top: 789px;
+  left: 988px;
+  border-radius: var(--br-mini);
+  width: 172px;
+  height: 202px;
+  object-fit: cover;
+}
+.fornt-page-child18 {
+  position: absolute;
+  top: 861px;
+  left: 1160px;
+  border-radius: 0 var(--br-mini) var(--br-mini) 0;
+  background-color: var(--color-white);
+  width: 223px;
+  height: 57px;
+}
+.zydus-hospital-ahmedabad-container {
+  position: absolute;
+  top: 858px;
+  left: 1164px;
+  text-transform: capitalize;
+  font-family: var(--font-rosario);
+}
+.user-menu-male {
+  position: absolute;
+  top: 46px;
+  left: 255px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.diseases {
+  position: absolute;
+  top: 68px;
+  left: 496px;
+  text-transform: capitalize;
+  color: var(--color-white);
+  cursor: pointer;
+}
+.fornt-page {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray-200);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
